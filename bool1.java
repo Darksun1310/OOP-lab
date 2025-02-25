@@ -1,4 +1,4 @@
-
+w
 public class bool1 {
     public static void main(String[] args) {
         boolean[][] array = { { true, false, true, },
